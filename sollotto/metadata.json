@@ -1,0 +1,12 @@
+{
+  "name": "Sollotto",
+  "symbol": "LOTTO",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/Dev5G/token-list/master/sollotto/logo.jpg",
+  "tags": [],
+  "extensions": { "twitter": "https://x.com/SolLottoTeam" },
+  "creator": {
+    "name": "Crunchylabs",
+    "site": "https://crunchylabs.app/"
+  }
+}
